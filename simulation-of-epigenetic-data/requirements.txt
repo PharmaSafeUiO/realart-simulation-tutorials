@@ -1,5 +1,5 @@
-pandas
-numpy
-jupyter
-tables
-scipy
+pandas>=2.2.3
+numpy>=2.2.4
+jupyter>=1.1.1
+tables>=3.10.2
+scipy>=1.15.2
